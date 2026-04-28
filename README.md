@@ -1,3 +1,6 @@
+
+https://huggingface.co/spaces/kirantharun2803/Hybrid_AI_Hospital_Assistant_using_RAG_and_Large_Language_Models
+
 🩺 AI Hospital Assistant (RAG + LLM Hybrid System)
 
 An intelligent AI-powered hospital assistant that answers medical and hospital-related queries using Retrieval-Augmented Generation (RAG) combined with Large Language Models (LLMs).
